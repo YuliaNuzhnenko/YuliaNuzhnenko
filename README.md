@@ -74,9 +74,9 @@ I build end-to-end computational biology pipelines — transforming raw sequenci
 
 <div align="left" translate="no">
 
-<img height="160" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=YuliaNuzhnenko&show_icons=true&theme=github_dark&bg_color=050b14&border_color=00f0ff&hide_border=false&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-six-mu.vercel.app/api?username=YuliaNuzhnenko&show_icons=true&theme=github_dark&bg_color=050b14&border_color=00f0ff&hide_border=false&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&rank_icon=github" />
 &nbsp;
-<img height="160" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=YuliaNuzhnenko&layout=compact&theme=github_dark&bg_color=050b14&border_color=00f0ff&hide_border=false&title_color=00f0ff&text_color=94a3b8&langs_count=6" />
+<img height="160" src="https://github-readme-stats-six-mu.vercel.app/api/top-langs/?username=YuliaNuzhnenko&layout=compact&theme=github_dark&bg_color=050b14&border_color=00f0ff&hide_border=false&title_color=00f0ff&text_color=94a3b8&langs_count=6" />
 
 </div>
 
