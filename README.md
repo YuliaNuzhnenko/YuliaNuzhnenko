@@ -43,13 +43,13 @@ I build end-to-end computational biology pipelines — transforming raw sequenci
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 **Bioinformatics Packages**  
-![DESeq2](https://img.shields.io/badge/DESeq2-0d1117?style=flat-square)
-![Scanpy](https://img.shields.io/badge/Scanpy-0d1117?style=flat-square)
-![Seurat](https://img.shields.io/badge/Seurat-0d1117?style=flat-square)
-![GATK](https://img.shields.io/badge/GATK-0d1117?style=flat-square)
-![Ensembl VEP](https://img.shields.io/badge/Ensembl_VEP-0d1117?style=flat-square)
-![QIIME2](https://img.shields.io/badge/QIIME2-0d1117?style=flat-square)
-![AlphaFold2](https://img.shields.io/badge/AlphaFold2-0d1117?style=flat-square)
+![DESeq2](https://img.shields.io/badge/DESeq2-475569?style=flat-square)
+![Scanpy](https://img.shields.io/badge/Scanpy-475569?style=flat-square)
+![Seurat](https://img.shields.io/badge/Seurat-475569?style=flat-square)
+![GATK](https://img.shields.io/badge/GATK-475569?style=flat-square)
+![Ensembl VEP](https://img.shields.io/badge/Ensembl%20VEP-475569?style=flat-square)
+![QIIME2](https://img.shields.io/badge/QIIME2-475569?style=flat-square)
+![AlphaFold2](https://img.shields.io/badge/AlphaFold2-475569?style=flat-square)
 
 </div>
 
