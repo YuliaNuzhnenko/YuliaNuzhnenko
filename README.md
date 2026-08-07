@@ -6,86 +6,84 @@
 
 &nbsp;
 
-I build end-to-end computational biology pipelines — from raw sequencing data to publication-ready insights. My work sits at the intersection of multi-omics analysis, machine learning, and scientific software engineering.
-
-Available for freelance research collaborations and consulting projects.
+I build end-to-end computational biology pipelines — transforming raw sequencing data and biological inputs into publication-ready scientific insights. My work sits at the intersection of multi-omics analysis, machine learning, and workflow automation.
 
 &nbsp;
 
 ---
 
-### What I do
+<h3 translate="no">Scientific Capabilities</h3>
 
-| Domain | Expertise |
-|--------|-----------|
-| **Transcriptomics** | Bulk & single-cell RNA-Seq · DEG analysis · GSEA · Volcano plots · Heatmaps |
-| **Genomics** | Variant annotation (VEP/ClinVar) · AMR profiling · WGS/WES pipelines |
-| **Structural Biology** | AlphaFold2 structure analysis · Binding pocket evaluation · py3Dmol |
-| **Microbiome** | 16S rRNA · Alpha/Beta diversity · PCoA · Taxonomic profiling |
-| **AI & NLP** | RAG systems · PubMed mining · LLM-assisted literature synthesis |
-| **Infrastructure** | Nextflow · WDL/Cromwell · Docker · AWS · Google Cloud |
+| Module / Domain | Core Methodologies & Output |
+| :--- | :--- |
+| **01. Transcriptomics (RNA-Seq)** | Differential gene expression (DESeq2/limma), TMM normalization, high-res Volcano & Heatmap visualization. |
+| **02. Single-Cell Discovery** | scRNA-seq processing, quality control filtering, Harmony integration, Leiden clustering, UMAP/t-SNE projections, automated marker cell annotation. |
+| **03. Structural Biology** | Visualizing 3D protein structures (AlphaFold DB), pocket volume/surface calculation, mutation hotspot modeling, py3Dmol interactive WebGL rendering. |
+| **04. Metagenomics** | 16S rRNA taxonomic profiling, QIIME2 pipelines, Alpha/Beta diversity indices, interactive 3D PCoA. |
+| **05. Antimicrobial Resistance** | Automated AMR gene identification via CARD and ResFinder databases, genome assembly validation, resistance mechanism profiling heatmaps. |
+| **06. Clinical Variant Annotation** | Somatic & germline variant prioritization (Ensembl VEP, ClinVar, gnomAD), drug-target mapping, precision oncology reporting. |
+| **07. Interactive Data Apps** | Custom Streamlit & Plotly scientific dashboard deployment, real-time dataset analysis & figure exports. |
+| **08. Public Data Mining & GSEA** | Programmatic GEO/SRA database queries (GEOquery), Gene Set Enrichment Analysis (fgsea), enrichment plot visualization. |
+| **09. Cloud-Native HPC Pipelines** | Workflow development (Nextflow, WDL/Cromwell), GATK somatic variant calling, Docker containerization, AWS Batch & GCP Life Sciences deployments. |
+| **10. AI Scientific Assistants** | RAG (Retrieval-Augmented Generation) systems, vector database embeddings (FAISS), PubMed API integration, biomedical literature synthesis. |
 
 ---
 
-### Stack
+<h3 translate="no">Tech Stack</h3>
 
-<div align="left">
+<div align="left" translate="no">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3b82f6)
-![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=3b82f6)
-![Nextflow](https://img.shields.io/badge/Nextflow-0d1117?style=flat-square&logo=nextflow&logoColor=00f0ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00f0ff)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=ef4444)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=f59e0b)
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-0d1117?style=flat-square&logo=nextflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-![DESeq2](https://img.shields.io/badge/DESeq2-0d1117?style=flat-square&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-0d1117?style=flat-square&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-0d1117?style=flat-square&logoColor=white)
-![Ensembl VEP](https://img.shields.io/badge/Ensembl%20VEP-0d1117?style=flat-square&logoColor=white)
-![QIIME2](https://img.shields.io/badge/QIIME2-0d1117?style=flat-square&logoColor=white)
-![AlphaFold](https://img.shields.io/badge/AlphaFold2-0d1117?style=flat-square&logoColor=white)
+**Bioinformatics Packages**  
+![DESeq2](https://img.shields.io/badge/DESeq2-0d1117?style=flat-square)
+![Scanpy](https://img.shields.io/badge/Scanpy-0d1117?style=flat-square)
+![Seurat](https://img.shields.io/badge/Seurat-0d1117?style=flat-square)
+![GATK](https://img.shields.io/badge/GATK-0d1117?style=flat-square)
+![Ensembl VEP](https://img.shields.io/badge/Ensembl_VEP-0d1117?style=flat-square)
+![QIIME2](https://img.shields.io/badge/QIIME2-0d1117?style=flat-square)
+![AlphaFold2](https://img.shields.io/badge/AlphaFold2-0d1117?style=flat-square)
 
 </div>
 
 ---
 
-### Selected work
+<h3 translate="no">Selected Projects</h3>
 
-**[AMR Genome Analysis Pipeline](https://github.com/YuliaNuzhnenko/portfolio)**
-Automated detection of antimicrobial resistance genes in bacterial genomes using CARD/ResFinder. Outputs clinical heatmaps mapping resistance mechanisms to drug classes.
-
-**[PubMed RAG Literature Assistant](https://github.com/YuliaNuzhnenko/portfolio)**
-LLM-powered retrieval system connected to NCBI PubMed API. Synthesizes systematic reviews from natural language queries with full citation support.
-
-**[Single-Cell AI Explorer](https://github.com/YuliaNuzhnenko/portfolio)**
-Scanpy-based scRNA-seq analysis dashboard with GPT-assisted cluster annotation. Interactive UMAP exploration for immune cell subpopulation discovery.
-
-**[OmicsVis — DEG & Biomarker Discovery](https://github.com/YuliaNuzhnenko/portfolio)**
-Interactive Streamlit application for differential expression analysis. Upload raw counts, adjust thresholds, export publication-ready figures.
-
-**[Multi-Omics Integration](https://github.com/YuliaNuzhnenko/portfolio)**
-MOFA+-based integration of transcriptomics and proteomics layers. Reveals concordant expression patterns with unified clinical narrative output.
+*   **[AMR Genome Analysis Pipeline](https://github.com/YuliaNuzhnenko/portfolio)**: Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes via high-contrast heatmaps.
+*   **[PubMed RAG Literature Assistant](https://github.com/YuliaNuzhnenko/portfolio)**: Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews with accurate citation references.
+*   **[OmicsVis DEG Discovery Tool](https://github.com/YuliaNuzhnenko/portfolio)**: Streamlit app for interactive DGE analysis (limma/DESeq2), offering real-time volcano plot adjustments and figure downloads.
+*   **[Single-Cell Subpopulation Explorer](https://github.com/YuliaNuzhnenko/portfolio)**: scRNA-seq workflow with Leiden clustering and UMAP modeling, backed by an AI-assisted annotation layer for cell classification.
+*   **[3D Protein Binding Pocket Modeler](https://github.com/YuliaNuzhnenko/portfolio)**: Structural dashboard pulling from AlphaFold DB to evaluate mutation hotspots and visualize active pockets using py3Dmol WebGL.
+*   **[Metagenomic Dysbiosis Profiler](https://github.com/YuliaNuzhnenko/portfolio)**: 16S rRNA analysis tool calculating Shannon diversity, generating taxonomic abundance bar charts, and rendering interactive 3D PCoA projections.
 
 ---
 
-### GitHub
+<h3 translate="no">GitHub Analytics</h3>
 
-<div align="left">
+<div align="left" translate="no">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YuliaNuzhnenko&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&hide_border=false&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=YuliaNuzhnenko&show_icons=true&theme=github_dark&bg_color=050b14&border_color=00f0ff&hide_border=false&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&rank_icon=github" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuliaNuzhnenko&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&hide_border=false&title_color=00f0ff&text_color=94a3b8&langs_count=6" />
+<img height="160" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=YuliaNuzhnenko&layout=compact&theme=github_dark&bg_color=050b14&border_color=00f0ff&hide_border=false&title_color=00f0ff&text_color=94a3b8&langs_count=6" />
 
 </div>
 
 ---
 
-### Contact
+<h3 translate="no">Contact & Profiles</h3>
 
-[Portfolio](https://yulianuzhnenko.github.io/portfolio) &nbsp;·&nbsp;
-[ORCID](https://orcid.org/0009-0004-2049-3364) &nbsp;·&nbsp;
-[Kolabtree](https://www.kolabtree.com/find-an-expert/j.146818/) &nbsp;·&nbsp;
-[GitHub](https://github.com/YuliaNuzhnenko)
+[Portfolio Website](https://yulianuzhnenko.github.io/portfolio) &nbsp;·&nbsp;
+[ORCID Registry](https://orcid.org/0009-0004-2049-3364) &nbsp;·&nbsp;
+[Kolabtree Professional Profile](https://www.kolabtree.com/find-an-expert/j.146818/) &nbsp;·&nbsp;
+[GitHub Profile](https://github.com/YuliaNuzhnenko)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0a1f4a,100:050b14&height=80&section=footer" width="100%"/>
