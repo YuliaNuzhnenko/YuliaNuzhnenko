@@ -6,7 +6,9 @@
 
 &nbsp;
 
-I build end-to-end computational biology pipelines — transforming raw sequencing data and biological inputs into publication-ready scientific insights. My work sits at the intersection of multi-omics analysis, machine learning, and workflow automation.
+I design and deploy end-to-end solutions in computational biology, structural bioinformatics, and biomedical AI. By bridging multi-omics pipelines, structural modeling, and clinical variant analysis, I transform raw genomic, transcriptomic, and metagenomic datasets into complete, publication-ready scientific insights.
+
+My technical approach integrates high-performance cloud pipelines (Nextflow/WDL), interactive data visualization, and retrieval-augmented LLM architectures (RAG) to accelerate biomedical discovery and scientific translation.
 
 &nbsp;
 
