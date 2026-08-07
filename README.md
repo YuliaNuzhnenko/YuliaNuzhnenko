@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg?v=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/YuliaNuzhnenko/YuliaNuzhnenko/main/banner.svg?v=4" width="100%"/>
 
 </div>
 
