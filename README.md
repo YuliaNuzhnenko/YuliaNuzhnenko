@@ -57,12 +57,16 @@ I build end-to-end computational biology pipelines — transforming raw sequenci
 
 <h3 translate="no">Selected Projects</h3>
 
-*   **[AMR Genome Analysis Pipeline](https://yulianuzhnenko.github.io/portfolio/)**: Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes via high-contrast heatmaps.
-*   **[PubMed RAG Literature Assistant](https://yulianuzhnenko.github.io/portfolio/)**: Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews with accurate citation references.
-*   **[OmicsVis DEG Discovery Tool](https://yulianuzhnenko.github.io/portfolio/)**: Streamlit app for interactive DGE analysis (limma/DESeq2), offering real-time volcano plot adjustments and figure downloads.
-*   **[Single-Cell Subpopulation Explorer](https://yulianuzhnenko.github.io/portfolio/)**: scRNA-seq workflow with Leiden clustering and UMAP modeling, backed by an AI-assisted annotation layer for cell classification.
-*   **[3D Protein Binding Pocket Modeler](https://yulianuzhnenko.github.io/portfolio/)**: Structural dashboard pulling from AlphaFold DB to evaluate mutation hotspots and visualize active pockets using py3Dmol WebGL.
-*   **[Metagenomic Dysbiosis Profiler](https://yulianuzhnenko.github.io/portfolio/)**: 16S rRNA analysis tool calculating Shannon diversity, generating taxonomic abundance bar charts, and rendering interactive 3D PCoA projections.
+*   **[Antimicrobial Resistance Profiling](https://yulianuzhnenko.github.io/portfolio/)** (Module 1): Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes via high-contrast heatmaps.
+*   **[Automated Systematic Reviews](https://yulianuzhnenko.github.io/portfolio/)** (Module 2): Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews with accurate citation references.
+*   **[Gene Expression Profiling](https://yulianuzhnenko.github.io/portfolio/)** (Module 3): Complete differential expression pipeline (DESeq2/limma) transforming transcriptomic counts into Volcano and Heatmap visualizations.
+*   **[Single-Cell Subpopulation Discovery](https://yulianuzhnenko.github.io/portfolio/)** (Module 4): scRNA-seq workflow with Leiden clustering and UMAP modeling, backed by an AI-assisted annotation layer for cell classification.
+*   **[3D Protein Binding Pocket Analysis](https://yulianuzhnenko.github.io/portfolio/)** (Module 5): Structural dashboard pulling from AlphaFold DB to evaluate mutation hotspots and visualize active pockets using py3Dmol WebGL.
+*   **[Clinical VCF Variant Annotation](https://yulianuzhnenko.github.io/portfolio/)** (Module 6): Whole Exome/Genome Variant Prioritization pipeline utilizing Ensembl VEP, ClinVar, and Open Targets to detect druggable targets.
+*   **[Interactive Genomics Viewer (IGV)](https://yulianuzhnenko.github.io/portfolio/)** (Module 7): Custom integration of IGV.js track visualization for BAM/BAI read alignments validation in the browser.
+*   **[NCBI GEO Mining & GSEA](https://yulianuzhnenko.github.io/portfolio/)** (Module 8): Automated public dataset mining from GEO query database followed by GSEA KEGG/MSigDB pathway enrichment ridge plotting.
+*   **[Cloud-Native Bioinformatics Pipelines](https://yulianuzhnenko.github.io/portfolio/)** (Module 9): Cromwell WDL workflows built for scalable somatic variant calling (GATK) running on AWS Batch and GCP Life Sciences.
+*   **[Metagenomic Dysbiosis Profiling](https://yulianuzhnenko.github.io/portfolio/)** (Module 10): 16S rRNA analysis tool calculating Shannon diversity, generating taxonomic abundance bar charts, and rendering interactive 3D PCoA projections.
 
 ---
 
