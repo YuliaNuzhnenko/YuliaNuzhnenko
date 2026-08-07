@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,50:0a1f4a,100:00f0ff&height=160&section=header&text=Yulia%20Nuzhnenko&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computational%20Biologist%20%E2%80%94%20Multi-Omics%20%7C%20AI%20Pipelines%20%7C%20Data%20Science&descSize=15&descAlignY=58&descColor=94a3b8" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 </div>
 
@@ -84,7 +84,3 @@ I build end-to-end computational biology pipelines — transforming raw sequenci
 [ORCID Registry](https://orcid.org/0009-0004-2049-3364) &nbsp;·&nbsp;
 [Kolabtree Professional Profile](https://www.kolabtree.com/find-an-expert/j.146818/) &nbsp;·&nbsp;
 [GitHub Profile](https://github.com/YuliaNuzhnenko)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0a1f4a,100:050b14&height=80&section=footer" width="100%"/>
-</div>
