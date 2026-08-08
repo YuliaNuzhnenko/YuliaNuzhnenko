@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/YuliaNuzhnenko/YuliaNuzhnenko/main/banner.svg?v=4" width="100%"/>
 
+[![Kolabtree](https://img.shields.io/badge/Kolabtree-Scientific_Consulting-00f0ff?style=flat-square&logo=kolabtree)](https://www.kolabtree.com/find-an-expert/j.146818/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--2049--3364-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0004-2049-3364)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yulianuzhnenko.github.io-7000ff?style=flat-square)](https://yulianuzhnenko.github.io/portfolio)
+
 </div>
 
 &nbsp;
@@ -75,7 +79,7 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 ---
 
-<h3 translate="no">Open-Source Frameworks & Libraries</h3>
+<h3 translate="no">Open-Source Frameworks & Benchmarks</h3>
 
 *   **[Multi-Omics Computational Pipelines](https://github.com/YuliaNuzhnenko/awesome-multi-omics-pipelines)**: Curated catalog of state-of-the-art multi-omics tools, single-cell, spatial omics, and structural biology references.
 *   **[Biomedical LLM RAG Resources](https://github.com/YuliaNuzhnenko/biomedical-llm-rag-resources)**: Production-grade architecture patterns, PubMedBERT embedding configurations, and FAISS vector search code for medical RAG.
@@ -85,6 +89,15 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 *   **[scRNA-seq COVID-19 Immune Atlas](https://github.com/YuliaNuzhnenko/scRNAseq-COVID19-immune-atlas)**: Scanpy + Harmony single-cell RNA-seq integration pipeline mapping BALF immune subpopulation dynamics.
 *   **[AlphaFold Pocket SASA Evaluator](https://github.com/YuliaNuzhnenko/alphafold-pocket-sasa-evaluator)**: Command-line Python utility for calculating Solvent Accessible Surface Area (SASA) and pLDDT confidence scores.
 *   **[Small-Molecule QSAR ML Pipeline](https://github.com/YuliaNuzhnenko/qsar-ic50-ml-pipeline)**: Cheminformatics QSAR machine learning pipeline predicting small-molecule IC50 bioactivity via RDKit ECFP4 fingerprints and LightGBM.
+
+---
+
+<h3 translate="no">High-Impact Utilities & Community Tools</h3>
+
+*   **[Bioinformatics One-Liners Cheatsheet](https://github.com/YuliaNuzhnenko/bioinformatics-one-liners)**: Battle-tested Linux, AWK, SAMtools, BCFtools, and Python CLI one-liners for daily genomic data processing.
+*   **[Biotech & Biomedical AI System Prompts](https://github.com/YuliaNuzhnenko/biotech-ai-prompts)**: Domain-tuned system prompts for LLM paper review, VCF clinical report generation, and Nextflow code writing.
+*   **[Multi-Omics Production Docker Containers](https://github.com/YuliaNuzhnenko/bio-docker-containers)**: Ready-to-use Dockerfiles for single-cell (Scanpy+Seurat), variant calling (GATK+VEP), and metagenomics.
+*   **[Bioinformatics Tools Performance Benchmarks](https://github.com/YuliaNuzhnenko/bio-tools-benchmark)**: Benchmark suite comparing execution runtimes, RAM footprint, and AWS costs for RNA-seq aligners and scRNA tools.
 
 </div>
 
@@ -102,9 +115,9 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 ---
 
-<h3 translate="no">Contact & Profiles</h3>
+<h3 translate="no">Contact & Professional Consulting</h3>
 
 [Portfolio Website](https://yulianuzhnenko.github.io/portfolio) &nbsp;·&nbsp;
 [ORCID Registry](https://orcid.org/0009-0004-2049-3364) &nbsp;·&nbsp;
-[Kolabtree Professional Profile](https://www.kolabtree.com/find-an-expert/j.146818/) &nbsp;·&nbsp;
+[Kolabtree Scientific Consulting Profile](https://www.kolabtree.com/find-an-expert/j.146818/) &nbsp;·&nbsp;
 [GitHub Profile](https://github.com/YuliaNuzhnenko)
