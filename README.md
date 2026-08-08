@@ -16,18 +16,18 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 <h3 translate="no">Scientific Capabilities</h3>
 
-| Module / Domain | Core Methodologies & Output |
+| Specialization | Core Capabilities & Methodologies |
 | :--- | :--- |
-| **01. Transcriptomics (RNA-Seq)** | Differential gene expression (DESeq2/limma), TMM normalization, high-res Volcano & Heatmap visualization. |
-| **02. Single-Cell Discovery** | scRNA-seq processing, quality control filtering, Harmony integration, Leiden clustering, UMAP/t-SNE projections, automated marker cell annotation. |
-| **03. Structural Biology** | Visualizing 3D protein structures (AlphaFold DB), pocket volume/surface calculation, mutation hotspot modeling, py3Dmol interactive WebGL rendering. |
-| **04. Metagenomics** | 16S rRNA taxonomic profiling, QIIME2 pipelines, Alpha/Beta diversity indices, interactive 3D PCoA. |
-| **05. Antimicrobial Resistance** | Automated AMR gene identification via CARD and ResFinder databases, genome assembly validation, resistance mechanism profiling heatmaps. |
-| **06. Clinical Variant Annotation** | Somatic & germline variant prioritization (Ensembl VEP, ClinVar, gnomAD), drug-target mapping, precision oncology reporting. |
-| **07. Interactive Data Apps** | Custom Streamlit & Plotly scientific dashboard deployment, real-time dataset analysis & figure exports. |
-| **08. Public Data Mining & GSEA** | Programmatic GEO/SRA database queries (GEOquery), Gene Set Enrichment Analysis (fgsea), enrichment plot visualization. |
-| **09. Cloud-Native HPC Pipelines** | Workflow development (Nextflow, WDL/Cromwell), GATK somatic variant calling, Docker containerization, AWS Batch & GCP Life Sciences deployments. |
-| **10. AI Scientific Assistants** | RAG (Retrieval-Augmented Generation) systems, vector database embeddings (FAISS), PubMed API integration, biomedical literature synthesis. |
+| **Transcriptomics & Bulk RNA-Seq** | Differential gene expression (DESeq2/limma), TMM normalization, high-res Volcano & Heatmap visualization. |
+| **Single-Cell Omics (scRNA-Seq)** | scRNA-seq processing, quality control filtering, Harmony integration, Leiden clustering, UMAP/t-SNE projections, marker gene cell annotation. |
+| **Structural Biology & Docking** | 3D protein structure visualization (AlphaFold DB), binding pocket evaluation, mutation hotspot modeling, py3Dmol WebGL rendering. |
+| **Metagenomics & Microbiome** | 16S rRNA taxonomic profiling, QIIME2 pipelines, Alpha/Beta diversity indices, interactive 3D PCoA projections. |
+| **Antimicrobial Resistance (AMR)** | Automated AMR gene identification via CARD & ResFinder databases, genome assembly validation, resistance heatmaps. |
+| **Clinical Genomics & Variants** | Somatic & germline variant prioritization (Ensembl VEP, ClinVar, gnomAD), drug-target mapping, precision oncology reporting. |
+| **Interactive Scientific Web Apps** | Custom Streamlit & Plotly scientific dashboard development, real-time dataset analysis & figure exports. |
+| **Data Mining & GSEA** | Programmatic GEO/SRA database queries (GEOquery), Gene Set Enrichment Analysis (fgsea), KEGG pathway enrichment plotting. |
+| **Cloud HPC & Workflows** | Workflow development (Nextflow, WDL/Cromwell), GATK somatic variant calling, Docker containerization, AWS Batch & GCP Life Sciences. |
+| **Biomedical AI & RAG Systems** | Retrieval-Augmented Generation (RAG), vector database embeddings (FAISS), PubMed API integration, automated literature synthesis. |
 
 ---
 
