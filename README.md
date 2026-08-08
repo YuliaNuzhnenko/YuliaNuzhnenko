@@ -67,6 +67,12 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 > [!TIP]
 > 🤖 **Flagship Open-Source Project**: **[Bioinformatics & Scientific AI Agent Skills](https://github.com/YuliaNuzhnenko/bioinformatics-agent-skills)** — Open-source library of AI Agent Skills, tool specifications, and prompt protocols for Bioinformatics, Genomics, Drug Discovery, and Multi-Omics. Compatible with Cursor, Claude Code, Antigravity, and Agent Skills standard.
 
+<h3 translate="no">🔥 2026 High-Impact Research Initiatives</h3>
+
+*   📍 **[Spatial Transcriptomics Microenvironment Atlas](https://github.com/YuliaNuzhnenko/spatial-transcriptomics-atlas)**: Production framework for 10x Visium, Xenium, and MERFISH spatial transcriptomics. Includes Squidpy spatial neighborhood analysis and ligand-receptor communication networks.
+*   🧬 **[AlphaFold3 Biomolecular Complex & Interaction Evaluator](https://github.com/YuliaNuzhnenko/alphafold3-complex-docking)**: Analysis toolkit for AlphaFold3 multi-chain complex predictions (Protein-DNA, Protein-RNA, Protein-Ligand). Parses PAE matrices and SASA binding energies.
+*   🔄 **[Single-Cell RNA Velocity & Trajectory Inference Engine](https://github.com/YuliaNuzhnenko/sc-rna-velocity-trajectory)**: Single-cell RNA velocity and cell fate trajectory inference pipeline powered by scVelo, CellRank, and AnnData. Calculates directional mRNA splicing dynamics.
+
 <h3 translate="no">Featured Scientific Platforms</h3>
 
 *   **[Clinical VCF Variant Annotator](https://github.com/YuliaNuzhnenko/Clinical-Variant-Annotator)**: Precision oncology platform integrating Ensembl VEP, ClinVar, 3D PDB mapping, pharmacogenomics (PGx), and clinical trials.
