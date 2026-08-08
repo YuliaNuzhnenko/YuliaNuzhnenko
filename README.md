@@ -64,6 +64,9 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 <div translate="no">
 
+> [!TIP]
+> 🤖 **Flagship Open-Source Project**: **[Bioinformatics & Scientific AI Agent Skills](https://github.com/YuliaNuzhnenko/bioinformatics-agent-skills)** — Open-source library of AI Agent Skills, tool specifications, and prompt protocols for Bioinformatics, Genomics, Drug Discovery, and Multi-Omics. Compatible with Cursor, Claude Code, Antigravity, and Agent Skills standard.
+
 <h3 translate="no">Featured Scientific Platforms</h3>
 
 *   **[Clinical VCF Variant Annotator](https://github.com/YuliaNuzhnenko/Clinical-Variant-Annotator)**: Precision oncology platform integrating Ensembl VEP, ClinVar, 3D PDB mapping, pharmacogenomics (PGx), and clinical trials.
