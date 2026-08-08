@@ -91,7 +91,7 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 <h3 translate="no">Open-Source Frameworks & Benchmarks</h3>
 
-*   **[Multi-Omics Computational Pipelines](https://github.com/YuliaNuzhnenko/awesome-multi-omics-pipelines)**: Curated catalog of state-of-the-art multi-omics tools, single-cell, spatial omics, and structural biology references.
+*   **[Multi-Omics Tools & Reference Guide](https://github.com/YuliaNuzhnenko/awesome-multi-omics-pipelines)**: Curated scientific reference directory and catalog of open-source tools, single-cell, spatial omics, and structural biology resources.
 *   **[Biomedical LLM RAG Resources](https://github.com/YuliaNuzhnenko/biomedical-llm-rag-resources)**: Production-grade architecture patterns, PubMedBERT embedding configurations, and FAISS vector search code for medical RAG.
 *   **[Nextflow DSL2 Production Template](https://github.com/YuliaNuzhnenko/nextflow-dsl2-production-template)**: Containerized Nextflow DSL2 workflow template with execution profiles for SLURM, Docker, and AWS Batch.
 *   **[Streamlit Bioinformatics UI Kit](https://github.com/YuliaNuzhnenko/streamlit-bioinformatics-ui-kit)**: Modular UI kit and component library for building biotech web applications in Streamlit with Plotly and py3Dmol.
