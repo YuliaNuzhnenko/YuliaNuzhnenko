@@ -5,6 +5,7 @@
 [![Kolabtree](https://img.shields.io/badge/Kolabtree-Scientific_Consulting-00f0ff?style=flat-square&logo=kolabtree)](https://www.kolabtree.com/find-an-expert/j.146818/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--2049--3364-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0004-2049-3364)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yulianuzhnenko.github.io-7000ff?style=flat-square)](https://yulianuzhnenko.github.io/portfolio)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YuliaNuzhnenko.YuliaNuzhnenko&left_color=050b14&right_color=00f0ff)](https://github.com/YuliaNuzhnenko)
 
 </div>
 
