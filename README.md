@@ -59,16 +59,16 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 <h3 translate="no">Selected Projects</h3>
 
-*   **[Antimicrobial Resistance Profiling](https://yulianuzhnenko.github.io/portfolio/)**: Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes via high-contrast heatmaps.
-*   **[Automated Systematic Reviews](https://yulianuzhnenko.github.io/portfolio/)**: Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews with accurate citation references.
-*   **[Gene Expression Profiling](https://yulianuzhnenko.github.io/portfolio/)**: Complete differential expression pipeline (DESeq2/limma) transforming transcriptomic counts into Volcano and Heatmap visualizations.
-*   **[Single-Cell Subpopulation Discovery](https://yulianuzhnenko.github.io/portfolio/)**: scRNA-seq workflow with Leiden clustering and UMAP modeling, backed by an AI-assisted annotation layer for cell classification.
-*   **[3D Protein Binding Pocket Analysis](https://yulianuzhnenko.github.io/portfolio/)**: Structural dashboard pulling from AlphaFold DB to evaluate mutation hotspots and visualize active pockets using py3Dmol WebGL.
-*   **[Clinical VCF Variant Annotation](https://yulianuzhnenko.github.io/portfolio/)**: Whole Exome/Genome Variant Prioritization pipeline utilizing Ensembl VEP, ClinVar, and Open Targets to detect druggable targets.
-*   **[Interactive Genomics Viewer (IGV)](https://yulianuzhnenko.github.io/portfolio/)**: Custom integration of IGV.js track visualization for BAM/BAI read alignments validation in the browser.
-*   **[NCBI GEO Mining & GSEA](https://yulianuzhnenko.github.io/portfolio/)**: Automated public dataset mining from GEO query database followed by GSEA KEGG/MSigDB pathway enrichment ridge plotting.
-*   **[Cloud-Native Bioinformatics Pipelines](https://yulianuzhnenko.github.io/portfolio/)**: Cromwell WDL workflows built for scalable somatic variant calling (GATK) running on AWS Batch and GCP Life Sciences.
-*   **[Metagenomic Dysbiosis Profiling](https://yulianuzhnenko.github.io/portfolio/)**: 16S rRNA analysis tool calculating Shannon diversity, generating taxonomic abundance bar charts, and rendering interactive 3D PCoA projections.
+*   **[Antimicrobial Resistance Profiling](https://github.com/YuliaNuzhnenko/amr-genome-analyzer)**: Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes via high-contrast heatmaps.
+*   **[Automated Systematic Reviews](https://github.com/YuliaNuzhnenko/PubMed-RAG-Assistant)**: Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews with accurate citation references.
+*   **[Gene Expression Profiling](https://github.com/YuliaNuzhnenko/OmicsVis-Interactive_DEG_Biomarker_Discovery_Tool)**: Complete differential expression pipeline (DESeq2/limma) transforming transcriptomic counts into Volcano and Heatmap visualizations.
+*   **[Single-Cell Subpopulation Discovery](https://github.com/YuliaNuzhnenko/Single_Cell_AI_Explorer)**: scRNA-seq workflow with Leiden clustering and UMAP modeling, backed by an AI-assisted annotation layer for cell classification.
+*   **[3D Protein Binding Pocket Analysis](https://github.com/YuliaNuzhnenko/Protein_3D_Modeler)**: Structural dashboard pulling from AlphaFold DB to evaluate mutation hotspots and visualize active pockets using py3Dmol WebGL.
+*   **[Clinical VCF Variant Annotation](https://github.com/YuliaNuzhnenko/Clinical-Variant-Annotator)**: Whole Exome/Genome Variant Prioritization pipeline utilizing Ensembl VEP, ClinVar, and Open Targets to detect druggable targets.
+*   **[Interactive Genomics Viewer (IGV)](https://github.com/YuliaNuzhnenko/Interactive-Genomics-Viewer-IGV)**: Custom integration of IGV.js track visualization for BAM/BAI read alignments validation in the browser.
+*   **[NCBI GEO Mining & GSEA](https://github.com/YuliaNuzhnenko/NCBI-GEO-Mining-GSEA)**: Automated public dataset mining from GEO query database followed by GSEA KEGG/MSigDB pathway enrichment ridge plotting.
+*   **[Cloud-Native Bioinformatics Pipelines](https://github.com/YuliaNuzhnenko/Cloud-Native-Genomics-Pipelines)**: Cromwell WDL workflows built for scalable somatic variant calling (GATK) running on AWS Batch and GCP Life Sciences.
+*   **[Metagenomic Dysbiosis Profiling](https://github.com/YuliaNuzhnenko/Metagenomic-Dysbiosis-Profiler)**: 16S rRNA analysis tool calculating Shannon diversity, generating taxonomic abundance bar charts, and rendering interactive 3D PCoA projections.
 
 ---
 
