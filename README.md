@@ -58,6 +58,8 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 ---
 
+<div translate="no">
+
 <h3 translate="no">Featured Scientific Platforms</h3>
 
 *   **[Clinical VCF Variant Annotator](https://github.com/YuliaNuzhnenko/Clinical-Variant-Annotator)**: Precision oncology platform integrating Ensembl VEP, ClinVar, 3D PDB mapping, pharmacogenomics (PGx), and clinical trials.
@@ -75,7 +77,7 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 
 <h3 translate="no">Open-Source Frameworks & Libraries</h3>
 
-*   **[Awesome Multi-Omics Pipelines](https://github.com/YuliaNuzhnenko/awesome-multi-omics-pipelines)**: Curated list of state-of-the-art multi-omics tools, single-cell, spatial omics, and structural biology references.
+*   **[Multi-Omics Computational Pipelines](https://github.com/YuliaNuzhnenko/awesome-multi-omics-pipelines)**: Curated catalog of state-of-the-art multi-omics tools, single-cell, spatial omics, and structural biology references.
 *   **[Biomedical LLM RAG Resources](https://github.com/YuliaNuzhnenko/biomedical-llm-rag-resources)**: Production-grade architecture patterns, PubMedBERT embedding configurations, and FAISS vector search code for medical RAG.
 *   **[Nextflow DSL2 Production Template](https://github.com/YuliaNuzhnenko/nextflow-dsl2-production-template)**: Containerized Nextflow DSL2 workflow template with execution profiles for SLURM, Docker, and AWS Batch.
 *   **[Streamlit Bioinformatics UI Kit](https://github.com/YuliaNuzhnenko/streamlit-bioinformatics-ui-kit)**: Modular UI kit and component library for building biotech web applications in Streamlit with Plotly and py3Dmol.
@@ -83,6 +85,8 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 *   **[scRNA-seq COVID-19 Immune Atlas](https://github.com/YuliaNuzhnenko/scRNAseq-COVID19-immune-atlas)**: Scanpy + Harmony single-cell RNA-seq integration pipeline mapping BALF immune subpopulation dynamics.
 *   **[AlphaFold Pocket SASA Evaluator](https://github.com/YuliaNuzhnenko/alphafold-pocket-sasa-evaluator)**: Command-line Python utility for calculating Solvent Accessible Surface Area (SASA) and pLDDT confidence scores.
 *   **[Small-Molecule QSAR ML Pipeline](https://github.com/YuliaNuzhnenko/qsar-ic50-ml-pipeline)**: Cheminformatics QSAR machine learning pipeline predicting small-molecule IC50 bioactivity via RDKit ECFP4 fingerprints and LightGBM.
+
+</div>
 
 ---
 
