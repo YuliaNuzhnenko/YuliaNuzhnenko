@@ -52,23 +52,37 @@ My technical approach integrates high-performance cloud pipelines (Nextflow/WDL)
 ![Ensembl VEP](https://img.shields.io/badge/Ensembl%20VEP-475569?style=flat-square)
 ![QIIME2](https://img.shields.io/badge/QIIME2-475569?style=flat-square)
 ![AlphaFold2](https://img.shields.io/badge/AlphaFold2-475569?style=flat-square)
+![RDKit](https://img.shields.io/badge/RDKit-475569?style=flat-square)
 
 </div>
 
 ---
 
-<h3 translate="no">Selected Projects</h3>
+<h3 translate="no">Featured Scientific Platforms</h3>
 
-*   **[Antimicrobial Resistance Profiling](https://github.com/YuliaNuzhnenko/amr-genome-analyzer)**: Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes via high-contrast heatmaps.
-*   **[Automated Systematic Reviews](https://github.com/YuliaNuzhnenko/PubMed-RAG-Assistant)**: Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews with accurate citation references.
-*   **[Gene Expression Profiling](https://github.com/YuliaNuzhnenko/OmicsVis-Interactive_DEG_Biomarker_Discovery_Tool)**: Complete differential expression pipeline (DESeq2/limma) transforming transcriptomic counts into Volcano and Heatmap visualizations.
+*   **[Clinical VCF Variant Annotator](https://github.com/YuliaNuzhnenko/Clinical-Variant-Annotator)**: Precision oncology platform integrating Ensembl VEP, ClinVar, 3D PDB mapping, pharmacogenomics (PGx), and clinical trials.
+*   **[Automated Systematic Reviews (PubMed RAG)](https://github.com/YuliaNuzhnenko/PubMed-RAG-Assistant)**: Retrieval-augmented LLM system utilizing FAISS vectors and PubMed API to compile systematic reviews.
+*   **[Gene Expression Profiling (OmicsVis)](https://github.com/YuliaNuzhnenko/OmicsVis-Interactive_DEG_Biomarker_Discovery_Tool)**: Complete differential expression pipeline (DESeq2/limma) transforming transcriptomic counts into Volcano and Heatmap visualizations.
 *   **[Single-Cell Subpopulation Discovery](https://github.com/YuliaNuzhnenko/Single_Cell_AI_Explorer)**: scRNA-seq workflow with Leiden clustering and UMAP modeling, backed by an AI-assisted annotation layer for cell classification.
 *   **[3D Protein Binding Pocket Analysis](https://github.com/YuliaNuzhnenko/Protein_3D_Modeler)**: Structural dashboard pulling from AlphaFold DB to evaluate mutation hotspots and visualize active pockets using py3Dmol WebGL.
-*   **[Clinical VCF Variant Annotation](https://github.com/YuliaNuzhnenko/Clinical-Variant-Annotator)**: Whole Exome/Genome Variant Prioritization pipeline utilizing Ensembl VEP, ClinVar, and Open Targets to detect druggable targets.
-*   **[Interactive Genomics Viewer (IGV)](https://github.com/YuliaNuzhnenko/Interactive-Genomics-Viewer-IGV)**: Custom integration of IGV.js track visualization for BAM/BAI read alignments validation in the browser.
+*   **[Interactive Genomics Viewer (IGV)](https://github.com/YuliaNuzhnenko/Interactive-Genomics-Viewer-IGV)**: Custom IGV.js web track visualization for BAM/BAI read alignment validation in the browser.
 *   **[NCBI GEO Mining & GSEA](https://github.com/YuliaNuzhnenko/NCBI-GEO-Mining-GSEA)**: Automated public dataset mining from GEO query database followed by GSEA KEGG/MSigDB pathway enrichment ridge plotting.
 *   **[Cloud-Native Bioinformatics Pipelines](https://github.com/YuliaNuzhnenko/Cloud-Native-Genomics-Pipelines)**: Cromwell WDL workflows built for scalable somatic variant calling (GATK) running on AWS Batch and GCP Life Sciences.
 *   **[Metagenomic Dysbiosis Profiling](https://github.com/YuliaNuzhnenko/Metagenomic-Dysbiosis-Profiler)**: 16S rRNA analysis tool calculating Shannon diversity, generating taxonomic abundance bar charts, and rendering interactive 3D PCoA projections.
+*   **[Antimicrobial Resistance Profiling](https://github.com/YuliaNuzhnenko/amr-genome-analyzer)**: Nextflow workflow integrating SPAdes, Prokka, and CARD to identify resistance genes and map them to drug classes.
+
+---
+
+<h3 translate="no">Open-Source Frameworks & Libraries</h3>
+
+*   **[Awesome Multi-Omics Pipelines](https://github.com/YuliaNuzhnenko/awesome-multi-omics-pipelines)**: Curated list of state-of-the-art multi-omics tools, single-cell, spatial omics, and structural biology references.
+*   **[Biomedical LLM RAG Resources](https://github.com/YuliaNuzhnenko/biomedical-llm-rag-resources)**: Production-grade architecture patterns, PubMedBERT embedding configurations, and FAISS vector search code for medical RAG.
+*   **[Nextflow DSL2 Production Template](https://github.com/YuliaNuzhnenko/nextflow-dsl2-production-template)**: Containerized Nextflow DSL2 workflow template with execution profiles for SLURM, Docker, and AWS Batch.
+*   **[Streamlit Bioinformatics UI Kit](https://github.com/YuliaNuzhnenko/streamlit-bioinformatics-ui-kit)**: Modular UI kit and component library for building biotech web applications in Streamlit with Plotly and py3Dmol.
+*   **[TCGA Pan-Cancer Immune Profiling](https://github.com/YuliaNuzhnenko/TCGA-pan-cancer-immune-profiling)**: Reproducible R research pipeline evaluating immune cell infiltration (CIBERSORT) and PD-L1 expression across TCGA tumors.
+*   **[scRNA-seq COVID-19 Immune Atlas](https://github.com/YuliaNuzhnenko/scRNAseq-COVID19-immune-atlas)**: Scanpy + Harmony single-cell RNA-seq integration pipeline mapping BALF immune subpopulation dynamics.
+*   **[AlphaFold Pocket SASA Evaluator](https://github.com/YuliaNuzhnenko/alphafold-pocket-sasa-evaluator)**: Command-line Python utility for calculating Solvent Accessible Surface Area (SASA) and pLDDT confidence scores.
+*   **[Small-Molecule QSAR ML Pipeline](https://github.com/YuliaNuzhnenko/qsar-ic50-ml-pipeline)**: Cheminformatics QSAR machine learning pipeline predicting small-molecule IC50 bioactivity via RDKit ECFP4 fingerprints and LightGBM.
 
 ---
 
