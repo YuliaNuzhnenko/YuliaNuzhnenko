@@ -11,9 +11,9 @@
 
 &nbsp;
 
-I design and deploy end-to-end solutions in computational biology, structural bioinformatics, and biomedical AI. By bridging multi-omics pipelines, structural modeling, and clinical variant analysis, I transform raw genomic, transcriptomic, and metagenomic datasets into complete, publication-ready scientific insights.
+I am a Bioengineer and Data Specialist (MSc) designing end-to-end analytical solutions for computational biology, multi-omics, and drug discovery. Bridging strong clinical intuition with advanced bioinformatics, I transform raw sequencing data into actionable, publication-ready scientific insights.
 
-My technical approach integrates high-performance cloud pipelines (Nextflow/WDL), interactive data visualization, and retrieval-augmented LLM architectures (RAG) to accelerate biomedical discovery and scientific translation.
+My expertise spans a wide spectrum of workflows: from **Single-Cell & Bulk RNA-Seq** differential expression to **Microbiome Profiling**, **Clinical Variant Annotation**, and **Structural Biology** (Molecular Docking & MD Trajectories). I build automated pipelines and machine learning models that generate high-quality visualizations (UMAPs, Volcano plots, 3D protein renders, PPI networks) to accelerate research for BioTech companies and academic labs.
 
 &nbsp;
 
